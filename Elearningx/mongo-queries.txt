@@ -1,0 +1,19 @@
+/*
+==================
+Courses Collection
+==================
+*/
+db.courses.insertMany([
+{
+    "courseName" : "cpp",
+    "photo" : "images/cpp.png"
+},
+{
+    "courseName" : "java",
+    "photo" : "images/java.png"
+},
+{
+    "courseName" : "python",
+    "photo" : "images/python.png"
+}
+])

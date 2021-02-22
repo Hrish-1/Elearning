@@ -1,0 +1,27 @@
+  .foot{
+    margin-top: 90px;
+  }
+  .output__header{
+    height : "60px" !important;
+    background-color : "#dbe2ef" !important;
+    display : "flex" !important;
+    align-items : "center" !important;
+  }
+  .con_height{
+    height: 500px;
+    background-color: #f9f7f7;
+    color: #3f72af;
+  }
+  .headL{
+    background-color: #dbe2ef;
+    color: #3f72af;
+  }
+  .Eheight{
+      height:390px;
+  }
+  .borderT{
+    border: 1px solid #3f72af; 
+  }
+  .border__rad{
+    border-radius: 15px;
+  }
